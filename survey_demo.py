@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uzQTlItzOEb678rPDSmQUlHVQ56fIDPs
 """
 
-pip install ipywidgets
+
 
 import pandas as pd
 # Example logic:
